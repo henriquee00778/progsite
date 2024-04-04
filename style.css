@@ -62,7 +62,7 @@ body{
 .time-icone{
     float: left;
     width: 24px
-    padding: 5px;
+    margin: 0 10px 10px 0;
 }
 
 .time-div{
