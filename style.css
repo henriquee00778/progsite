@@ -38,11 +38,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 54px 0;
+    padding: 24px 0;
 }
 
 .org-div-conteudo{
     width: 35%;
+    margin: 0 10%;
 }
 
 .org-titulo{
