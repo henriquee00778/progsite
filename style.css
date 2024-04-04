@@ -60,7 +60,7 @@ body{
 }
 
 .time-icone{
-    display: inline-block;
+    display: flex;
     width: 24px
 }
 
