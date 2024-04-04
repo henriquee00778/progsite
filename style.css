@@ -54,8 +54,8 @@ body{
 }
 
 .time-imagem{
-    width: 130px;
-    height: 133px;
+    width: 140px;
+    height: 150px;
 }
 
 .time-icone{
@@ -73,5 +73,5 @@ body{
 
 .time-todos{
     display: grid;
-    grid-template-columns: 15% 15% 15% 15% 15%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
