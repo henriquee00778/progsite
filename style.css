@@ -56,6 +56,7 @@ body{
 .time-imagem{
     width: 150px;
     height: 140px;
+    border-radius: 10%;
 }
 
 .time-icone{
